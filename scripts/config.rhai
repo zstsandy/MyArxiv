@@ -2,7 +2,7 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["Diffusion", "NeRF", "Transformer"];
 let titles_method = ["Segmentation", "SLAM", "Self-Supervised", "implicit", "semantic"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Yann LeCun", "Geoffrey Hinton"];
 
 let conferences = [
     // AI
